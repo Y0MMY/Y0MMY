@@ -28,7 +28,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 
 
-- How to reach me:
+- **How to reach me:**
 <div id="badges">
   <a href="mailto:y0mmycpp@gmail.com">
     <img src="https://img.shields.io/badge/gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail Badge"/>
