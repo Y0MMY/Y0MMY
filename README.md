@@ -6,9 +6,9 @@
   
 
 
-- I’m currently working on my own <a target="_blank" href="https://github.com/Y0MMY/GDI-engine" >**GDI+ engine, using WinAPI**</a>
+- **I’m currently working on my own <a target="_blank" href="https://github.com/Y0MMY/GDI-engine" >** *GDI+ engine, using WinAPI*</a>
  
-- I’m looking to collaborate on any IT company **(the advantage of gamedev)**
+- **I’m looking to collaborate on any IT company** *(the advantage of gamedev)*
 
 - **My skills:**
 
