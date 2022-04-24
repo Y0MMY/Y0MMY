@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=play&lines=I'm+C%2B%2B+developer+from+SPB+🇷🇺)](https://raw.githubusercontent.com/amiahmadtouseef/tutorialhtmlfive/master/petdecider/script.js)</h1> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&font=play&lines=I'm+C%2B%2B+developer+from+SPB+🇷🇺)](https://raw.githubusercontent.com/amiahmadtouseef/tutorialhtmlfive/master/petdecider/script.js)</h1> 
   
 
 
